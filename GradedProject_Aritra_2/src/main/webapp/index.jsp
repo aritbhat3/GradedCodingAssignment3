@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; URL='/crmapp_demo/customers/list'">
